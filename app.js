@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
 const studentResults = {
     // Form 4 Students
 'F42501': { name: 'Safiyo Mohamed Ahmed', class: 'Form 4', decision: 'Pass', grades: { 'Biology': 96 } },
-'F42502': { name: 'Suad Abdihakim Mohamed', class: 'Form 4', decision: 'Pass', grades: { 'Biology': 88 } },
+'F42502': { name: 'Suad Abdihakim Mohamed', class: 'Form 4', decision: 'Pass', grades: { 'Biology': 89 } },
 'F42503': { name: 'Jama Mohamed Elmi', class: 'Form 4', decision: 'Pass', grades: { 'Biology': 61 } },
 'F42504': { name: 'Abdirahman Caydiid Abdi', class: 'Form 4', decision: 'Fail', grades: { 'Biology': 33 } },
 'F42505': { name: 'Abdirahman Ahmed Abdilahi', class: 'Form 4', decision: 'Pass', grades: { 'Biology': 96 } },
